@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4accaa2b-0997-41cc-8f6e-4e5fbc5ee456" name="Default Changelist" comment="" />
+    <list default="true" id="d529dabe-8d3d-41af-a3d1-3106ea7c29ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1bN5assHCxw4cG6o8Y0XxO2zNAn" />
+  <component name="ProjectId" id="1bOe6KOZVm2DqVjo2ingciBCjYH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,23 +23,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="ts.external.directory.path" value="C:\duarte\projetos\ClassMate\ClassMate\node_modules\typescript\lib" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4accaa2b-0997-41cc-8f6e-4e5fbc5ee456" name="Default Changelist" comment="" />
-      <created>1588459776600</created>
+      <changelist id="d529dabe-8d3d-41af-a3d1-3106ea7c29ef" name="Default Changelist" comment="" />
+      <created>1588507392550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588459776600</updated>
-      <workItem from="1588459781151" duration="181000" />
+      <updated>1588507392550</updated>
+      <workItem from="1588507400860" duration="56000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
   </component>
 </project>
